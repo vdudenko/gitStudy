@@ -25,5 +25,4 @@ graph LR;
   staged    -- "???"     --> tracked/comitted;
 
 %% стрелка без текста для примера: 
-  A --> B;
 ``` 
